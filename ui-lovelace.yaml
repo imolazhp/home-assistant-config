@@ -15,6 +15,7 @@ views:
 ########
 # HOME #
 ########
+
   - id: 0  # Automatically created id
     title: Home
     cards:
